@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fe_Admin/1.0.0": {
+        "runtime": {
+          "Fe_Admin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fe_Admin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

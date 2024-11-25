@@ -3,8 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\model\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:model\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\services\\filestorageservice\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:services\\filestorageservice\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\services\\filestorageservice\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:services\\filestorageservice\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\services\\authservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:services\\authservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\services\\tokenservice\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:services\\tokenservice\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\services\\publisherservice\\publisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:services\\publisherservice\\publisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\services\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:services\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\services\\mailservice\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:services\\mailservice\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\services\\cartservice\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:services\\cartservice\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\dtos\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:dtos\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\services\\bookservice\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:services\\bookservice\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\services\\authorservice\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:services\\authorservice\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\services\\addressservice\\iaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:services\\addressservice\\iaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\services\\addressservice\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:services\\addressservice\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|c:\\users\\admin\\onedrive\\documents\\bookbeeproject\\bookbeeproject\\be\\bookbee\\extensions\\databaseextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1869A4B-7685-4FB1-AE52-E50DFB2F622E}|BookBee.csproj|solutionrelative:extensions\\databaseextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -103,14 +179,261 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TacGia.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Model\\TacGia.cs",
-              "RelativeDocumentMoniker": "Model\\TacGia.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Model\\TacGia.cs",
-              "RelativeToolTip": "Model\\TacGia.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AddressController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "Controllers\\AddressController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T19:56:35.315Z",
+              "WhenOpened": "2024-11-25T21:07:43.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:07:38.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T21:07:04.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T21:06:15.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:01:01.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Extensions\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceExtension.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Extensions\\ServiceExtension.cs",
+              "RelativeToolTip": "Extensions\\ServiceExtension.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAhwCQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:00:44.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\FileStorageService\\IFileStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\FileStorageService\\IFileStorageService.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\FileStorageService\\IFileStorageService.cs",
+              "RelativeToolTip": "Services\\FileStorageService\\IFileStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:59:48.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\FileStorageService\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\FileStorageService\\FileStorageService.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\FileStorageService\\FileStorageService.cs",
+              "RelativeToolTip": "Services\\FileStorageService\\FileStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:56:18.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\AuthService\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\AuthService\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAhwPQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:56:04.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\TokenService\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\TokenService\\ITokenService.cs",
+              "RelativeToolTip": "Services\\TokenService\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:57:43.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PublisherService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\PublisherService\\PublisherService.cs",
+              "RelativeDocumentMoniker": "Services\\PublisherService\\PublisherService.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\PublisherService\\PublisherService.cs",
+              "RelativeToolTip": "Services\\PublisherService\\PublisherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:57:33.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\OrderService\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService\\OrderService.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\OrderService\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:57:28.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\MailService\\MailService.cs",
+              "RelativeDocumentMoniker": "Services\\MailService\\MailService.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\MailService\\MailService.cs",
+              "RelativeToolTip": "Services\\MailService\\MailService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:57:01.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\CartService\\CartService.cs",
+              "RelativeDocumentMoniker": "Services\\CartService\\CartService.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\CartService\\CartService.cs",
+              "RelativeToolTip": "Services\\CartService\\CartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:56:14.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\DTOs\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "DTOs\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\DTOs\\MapperProfile.cs",
+              "RelativeToolTip": "DTOs\\MapperProfile.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:55:46.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\BookService\\BookService.cs",
+              "RelativeDocumentMoniker": "Services\\BookService\\BookService.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\BookService\\BookService.cs",
+              "RelativeToolTip": "Services\\BookService\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:55:38.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\AuthorService\\AuthorService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthorService\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\AuthorService\\AuthorService.cs",
+              "RelativeToolTip": "Services\\AuthorService\\AuthorService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:54:47.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAddressService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\AddressService\\IAddressService.cs",
+              "RelativeDocumentMoniker": "Services\\AddressService\\IAddressService.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\AddressService\\IAddressService.cs",
+              "RelativeToolTip": "Services\\AddressService\\IAddressService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:54:21.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddressService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\AddressService\\AddressService.cs",
+              "RelativeDocumentMoniker": "Services\\AddressService\\AddressService.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Services\\AddressService\\AddressService.cs",
+              "RelativeToolTip": "Services\\AddressService\\AddressService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:53:29.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DatabaseExtension.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Extensions\\DatabaseExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\DatabaseExtension.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\BookBeeProject\\BookBeeProject\\BE\\BookBee\\Extensions\\DatabaseExtension.cs",
+              "RelativeToolTip": "Extensions\\DatabaseExtension.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:53:18.473Z",
               "EditorCaption": ""
             }
           ]
