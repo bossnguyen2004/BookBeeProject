@@ -1,0 +1,85 @@
+﻿
+<div class="sidebar">
+
+ 
+
+    <nav class="mt-2">
+        <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+
+            <li class="nav-item">
+                <a href="/admin/Category" class="nav-link">
+                    <i class="nav-icon"></i>
+                    <p>
+                        Thống Kê Doanh Thu
+                    </p>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="/admin/role" class="nav-link">
+                    <i class="nav-icon"></i>
+                    <p>
+                      Bán Tại Quầy
+                    </p>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="/admin/news" class="nav-link">
+                    <i class="nav-icon"></i>
+                    <p>
+                        Đơn Hàng
+                    </p>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="@Url.Action("Index", "DanhMuc")" class="nav-link">
+                    <i class="nav-icon"></i>
+                    <p>
+                        Danh Mục Thể Loại
+
+                    </p>
+                </a>
+
+            </li>
+            <li class="nav-item">
+                <a href="@Url.Action("Index", "Book")" class="nav-link">
+                    <i class="nav-icon"></i>
+                    <p>
+                       Sản Phẩm
+                    </p>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="@Url.Action("Index", "Author")" class="nav-link">
+                    <i class="nav-icon"></i>
+                    <p>
+                        Tác Giả
+                    </p>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="@Url.Action("Index", "Publisher")" class="nav-link">
+                    <i class="nav-icon"></i>
+                    <p>
+                        Nhà Xuất Bản
+                    </p>
+                </a>
+            </li>
+           
+           
+         
+            <li class="nav-item">
+                <a href="javascript:document.getElementById('logOffForm').submit()" class="nav-link">
+                    <i class="nav-icon"></i>
+                    <p>
+                        Đăng xuất
+                    </p>
+                </a>
+            </li>
+        </ul>
+    </nav>
+
+</div>
+
+<form id="logOffForm" action="@Url.Action("LogOff", "Account")" method="post" style="display:none;">
+    @Html.AntiForgeryToken()
+</form>

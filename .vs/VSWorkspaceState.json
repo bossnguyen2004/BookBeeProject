@@ -4,12 +4,13 @@
     "\\BookBeeProject",
     "\\BookBeeProject\\BE",
     "\\BookBeeProject\\BE\\BookBee",
-    "\\BookBeeProject\\BE\\BookBee\\Controllers",
     "\\BookBeeProject\\BE\\BookBee\\Model",
     "\\BookBeeProject\\FE",
     "\\BookBeeProject\\FE\\Fe_Admin",
-    "\\BookBeeProject\\FE\\Fe_Admin\\Controllers"
+    "\\BookBeeProject\\FE\\Fe_Admin\\Controllers",
+    "\\BookBeeProject\\FE\\Fe_Admin\\Views",
+    "\\BookBeeProject\\FE\\Fe_Admin\\Views\\Account"
   ],
-  "SelectedNode": "\\BookBeeProject\\FE\\Fe_Admin\\Controllers\\AccountController.cs",
+  "SelectedNode": "\\BookBeeProject\\FE\\Fe_Admin\\Views\\Account\\Login.cshtml",
   "PreviewInSolutionExplorer": false
 }

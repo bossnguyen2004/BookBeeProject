@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookBee")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ee8227b33340e377bae6f8326c99af1b79182a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+281648f204b7cd2878e0634b55e516e5f2bbda8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookBee")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookBee")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
