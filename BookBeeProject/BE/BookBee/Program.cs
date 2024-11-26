@@ -90,7 +90,7 @@ services.AddFluentValidationAutoValidation();
 services.AddCors(options =>
 {
     options.AddPolicy("CorsPolicy", builder =>
-        builder.WithOrigins("https://localhost:7280", "https://localhost:7073")
+        builder.WithOrigins("https://localhost:7229", "https://localhost:7294")
             .AllowAnyHeader()
             .AllowAnyMethod());
 });

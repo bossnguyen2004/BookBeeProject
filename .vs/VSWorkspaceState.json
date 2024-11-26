@@ -4,8 +4,9 @@
     "\\BookBeeProject",
     "\\BookBeeProject\\BE",
     "\\BookBeeProject\\BE\\BookBee",
+    "\\BookBeeProject\\BE\\BookBee\\Controllers",
     "\\BookBeeProject\\BE\\BookBee\\Model"
   ],
-  "SelectedNode": "\\BookBeeProject\\BE\\BookBee\\Model\\Author.cs",
+  "SelectedNode": "\\BookBeeProject\\BE\\BookBee\\Controllers\\AddressController.cs",
   "PreviewInSolutionExplorer": false
 }
