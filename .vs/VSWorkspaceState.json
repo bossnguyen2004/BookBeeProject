@@ -5,8 +5,11 @@
     "\\BookBeeProject\\BE",
     "\\BookBeeProject\\BE\\BookBee",
     "\\BookBeeProject\\BE\\BookBee\\Controllers",
-    "\\BookBeeProject\\BE\\BookBee\\Model"
+    "\\BookBeeProject\\BE\\BookBee\\Model",
+    "\\BookBeeProject\\FE",
+    "\\BookBeeProject\\FE\\Fe_Admin",
+    "\\BookBeeProject\\FE\\Fe_Admin\\Controllers"
   ],
-  "SelectedNode": "\\BookBeeProject\\BE\\BookBee\\Program.cs",
+  "SelectedNode": "\\BookBeeProject\\FE\\Fe_Admin\\Controllers\\AccountController.cs",
   "PreviewInSolutionExplorer": false
 }

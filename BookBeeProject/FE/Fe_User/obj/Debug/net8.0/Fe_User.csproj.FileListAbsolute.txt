@@ -6,6 +6,8 @@ C:\Users\admin\OneDrive\Documents\BookBeeProject\BookBeeProject\FE\Fe_User\bin\D
 C:\Users\admin\OneDrive\Documents\BookBeeProject\BookBeeProject\FE\Fe_User\bin\Debug\net8.0\Fe_User.runtimeconfig.json
 C:\Users\admin\OneDrive\Documents\BookBeeProject\BookBeeProject\FE\Fe_User\bin\Debug\net8.0\Fe_User.dll
 C:\Users\admin\OneDrive\Documents\BookBeeProject\BookBeeProject\FE\Fe_User\bin\Debug\net8.0\Fe_User.pdb
+C:\Users\admin\OneDrive\Documents\BookBeeProject\BookBeeProject\FE\Fe_User\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\admin\OneDrive\Documents\BookBeeProject\BookBeeProject\FE\Fe_User\obj\Debug\net8.0\Fe_User.csproj.AssemblyReference.cache
 C:\Users\admin\OneDrive\Documents\BookBeeProject\BookBeeProject\FE\Fe_User\obj\Debug\net8.0\Fe_User.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\admin\OneDrive\Documents\BookBeeProject\BookBeeProject\FE\Fe_User\obj\Debug\net8.0\Fe_User.AssemblyInfoInputs.cache
 C:\Users\admin\OneDrive\Documents\BookBeeProject\BookBeeProject\FE\Fe_User\obj\Debug\net8.0\Fe_User.AssemblyInfo.cs
@@ -24,6 +26,7 @@ C:\Users\admin\OneDrive\Documents\BookBeeProject\BookBeeProject\FE\Fe_User\obj\D
 C:\Users\admin\OneDrive\Documents\BookBeeProject\BookBeeProject\FE\Fe_User\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\admin\OneDrive\Documents\BookBeeProject\BookBeeProject\FE\Fe_User\obj\Debug\net8.0\scopedcss\bundle\Fe_User.styles.css
 C:\Users\admin\OneDrive\Documents\BookBeeProject\BookBeeProject\FE\Fe_User\obj\Debug\net8.0\scopedcss\projectbundle\Fe_User.bundle.scp.css
+C:\Users\admin\OneDrive\Documents\BookBeeProject\BookBeeProject\FE\Fe_User\obj\Debug\net8.0\Fe_User.csproj.Up2Date
 C:\Users\admin\OneDrive\Documents\BookBeeProject\BookBeeProject\FE\Fe_User\obj\Debug\net8.0\Fe_User.dll
 C:\Users\admin\OneDrive\Documents\BookBeeProject\BookBeeProject\FE\Fe_User\obj\Debug\net8.0\refint\Fe_User.dll
 C:\Users\admin\OneDrive\Documents\BookBeeProject\BookBeeProject\FE\Fe_User\obj\Debug\net8.0\Fe_User.pdb

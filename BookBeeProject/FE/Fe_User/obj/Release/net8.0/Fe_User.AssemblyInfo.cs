@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fe_User")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cae912f1445c52d2e8170100e8076dafe0649e91")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ee8227b33340e377bae6f8326c99af1b79182a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fe_User")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fe_User")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
